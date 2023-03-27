@@ -1,6 +1,8 @@
 
 # References
 - [Initial Tutorial](https://github.com/gunarakulangunaretnam/fire-detection-system-in-python-opencv)
+- [Original Tutorial](https://cppsecrets.com/users/2368116971219710010197107115104105116505664121971041111114699111109/Fire-Detection-using-OpenCV.php)
+- [More advanced tutorial](https://pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/)
 
 # Plan
 - Sir to setup the environment and get the tutorial working
